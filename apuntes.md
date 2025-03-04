@@ -44,7 +44,7 @@ Un modelo de base de datos relacional es un tipo de base de datos compuesto de:
   - DELETE=Para eliminar filas
   - UPDETE= Para modificar filas
   - DDL
-  - Tambien tenemos senticcias de difinición de datos.
+  - Tambien tenemos sentencias  de difinición de datos.
   - CREATE = Para crear objeto.
   - DROP = Para eliminar base de datos
   - ALTER = Para objetos de base de datos. 
